@@ -1,6 +1,6 @@
-# Hash Code 2020  
+# Google Hash Code 2020  
 ## Online Qualification Round - Book scanning  
-Proposed solutions of Team GenetriX  
+Proposed solutions of *Team GenetriX*  
   
 | **DATA SET** | **SCORE** |
 | ------------- | ------------- |
@@ -11,5 +11,5 @@ Proposed solutions of Team GenetriX
 | E - so many books | 3,632,321 |
 | F - libraries of the world | 4,697,997 |
   
-### Total score: 19,086,601  
-#### Highest score during competition: 27,203,691
+#### Total score: 19,086,601  
+##### Highest score during competition: 27,203,691
