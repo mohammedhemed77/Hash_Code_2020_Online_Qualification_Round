@@ -1,5 +1,5 @@
 # Google Hash Code 2020  
-## Online Qualification Round - Book scanning  
+## Online Qualification Round - Book scanning(src/hashcode_2020_online_qualification_round.pdf)  
 Proposed solutions of *Team GenetriX*  
   
 | **DATA SET** | **SCORE** |
